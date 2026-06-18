@@ -1,0 +1,4 @@
+files:
+  - repo: arena-rosnav/navrep
+    filename: navrep_e2e1d.npz
+    dest: model/navrep_e2e1d.npz
