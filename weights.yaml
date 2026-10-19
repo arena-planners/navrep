@@ -2,3 +2,4 @@ files:
   - repo: arena-rosnav/navrep
     filename: navrep_e2e1d.npz
     dest: model/navrep_e2e1d.npz
+    sha256: f629251f9820da3e9f2fcfcc8f1523a5aeed1b64963e6661fa429cdd8a439175
